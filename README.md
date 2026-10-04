@@ -1,5 +1,14 @@
 # E-CART System 🛒
 
+<div align="center">
+
+**E-Commerce • Full-Stack Web**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+</div>
+
+
 A modern, responsive **e-commerce web application** built with React, TypeScript, Vite, Firebase, and Tailwind CSS.
 
 ## ✨ Key Features
@@ -36,3 +45,19 @@ Keep Firebase credentials and other secrets in environment configuration. Never 
 
 ## 👨‍💻 Author
 **Pavan Wadile**
+
+
+## 🔧 Engineering Focus
+
+Product browsing, shopping workflows, responsive UI and Firebase-backed services.
+
+
+---
+
+<div align="center">
+
+**Pavan Wadile · B.Tech Information Technology**
+
+[GitHub](https://github.com/PavanWadile77)
+
+</div>
